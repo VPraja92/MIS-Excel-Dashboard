@@ -4,7 +4,7 @@ A formula-driven **Management Information System (MIS) report** in Excel for a f
 
 > All data is **synthetic** (seeded random generator) - no real company or customer information.
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## What it does
 
